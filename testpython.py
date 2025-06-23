@@ -8,7 +8,7 @@ def main():
 
     print("Step 2: Simulating work...")
     for i in range(3):
-        print(f"  -> Working... {i+10}")
+        print(f"  -> Working... {i+100}")
         time.sleep(1)
 
     print("Step 3: Build completed successfully.")
