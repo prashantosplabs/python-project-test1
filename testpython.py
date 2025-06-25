@@ -1,7 +1,7 @@
 # test_build.py
 import time
 
-def main():
+def main()
     print("=== Jenkins Build Test ===")
     print("Step 1: Starting build process...")
     time.sleep(1)
