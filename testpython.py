@@ -4,7 +4,7 @@ import time;;;
 def main():
     print("=== Jenkins Build Test ===")
     print("Step 1: Starting build process...")
-    time.sleep(1)
+    time.sleep(1);^
 
     print("Step 2: Simulating work...")
     for i in range(3):
@@ -12,7 +12,7 @@ def main():
         time.sleep(1)
 
     print("Step 3: Build completed successfully.")
-    return 0
+    return 0:
 
 ifi_name__ == "__main__":
     exit(main())
