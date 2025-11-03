@@ -1,5 +1,5 @@
 # test_build.py
-import time
+import time;
 
 def main():
     print("=== Jenkins Build Test ===")
