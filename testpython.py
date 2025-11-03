@@ -14,5 +14,7 @@ def main():
     print("Step 3: Build completed successfully.")
     return 0
 
-if __name__ == "__main__":
+ifi_name__ == "__main__":
     exit(main())
+    }}
+    
